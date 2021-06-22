@@ -1,0 +1,13 @@
+C:\Users\mfkam\LaunchCode\communication-log\CommunicationLog\CommunicationLog\bin\Debug\netcoreapp3.1\CommunicationLog.exe
+C:\Users\mfkam\LaunchCode\communication-log\CommunicationLog\CommunicationLog\bin\Debug\netcoreapp3.1\CommunicationLog.deps.json
+C:\Users\mfkam\LaunchCode\communication-log\CommunicationLog\CommunicationLog\bin\Debug\netcoreapp3.1\CommunicationLog.runtimeconfig.json
+C:\Users\mfkam\LaunchCode\communication-log\CommunicationLog\CommunicationLog\bin\Debug\netcoreapp3.1\CommunicationLog.runtimeconfig.dev.json
+C:\Users\mfkam\LaunchCode\communication-log\CommunicationLog\CommunicationLog\bin\Debug\netcoreapp3.1\CommunicationLog.dll
+C:\Users\mfkam\LaunchCode\communication-log\CommunicationLog\CommunicationLog\bin\Debug\netcoreapp3.1\CommunicationLog.pdb
+C:\Users\mfkam\LaunchCode\communication-log\CommunicationLog\CommunicationLog\obj\Debug\netcoreapp3.1\CommunicationLog.csproj.AssemblyReference.cache
+C:\Users\mfkam\LaunchCode\communication-log\CommunicationLog\CommunicationLog\obj\Debug\netcoreapp3.1\CommunicationLog.AssemblyInfoInputs.cache
+C:\Users\mfkam\LaunchCode\communication-log\CommunicationLog\CommunicationLog\obj\Debug\netcoreapp3.1\CommunicationLog.AssemblyInfo.cs
+C:\Users\mfkam\LaunchCode\communication-log\CommunicationLog\CommunicationLog\obj\Debug\netcoreapp3.1\CommunicationLog.csproj.CoreCompileInputs.cache
+C:\Users\mfkam\LaunchCode\communication-log\CommunicationLog\CommunicationLog\obj\Debug\netcoreapp3.1\CommunicationLog.dll
+C:\Users\mfkam\LaunchCode\communication-log\CommunicationLog\CommunicationLog\obj\Debug\netcoreapp3.1\CommunicationLog.pdb
+C:\Users\mfkam\LaunchCode\communication-log\CommunicationLog\CommunicationLog\obj\Debug\netcoreapp3.1\CommunicationLog.genruntimeconfig.cache
