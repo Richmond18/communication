@@ -8,19 +8,19 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\mfkam\\.nuget\\packages\\": {}
+    "C:\\Users\\Akilah\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\mfkam\\LaunchCode\\communication-log\\CommunicationLog\\CommunicationLog\\CommunicationLog.csproj",
+      "projectUniqueName": "C:\\Users\\Akilah\\Desktop\\Launchode\\studio\\communication-log\\CommunicationLog\\CommunicationLog.csproj",
       "projectName": "CommunicationLog",
-      "projectPath": "C:\\Users\\mfkam\\LaunchCode\\communication-log\\CommunicationLog\\CommunicationLog\\CommunicationLog.csproj",
-      "packagesPath": "C:\\Users\\mfkam\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\mfkam\\LaunchCode\\communication-log\\CommunicationLog\\CommunicationLog\\obj\\",
+      "projectPath": "C:\\Users\\Akilah\\Desktop\\Launchode\\studio\\communication-log\\CommunicationLog\\CommunicationLog.csproj",
+      "packagesPath": "C:\\Users\\Akilah\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Akilah\\Desktop\\Launchode\\studio\\communication-log\\CommunicationLog\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\mfkam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Akilah\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
