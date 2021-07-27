@@ -11,3 +11,9 @@ C:\Users\mfkam\LaunchCode\communication-log\CommunicationLog\CommunicationLog\ob
 C:\Users\mfkam\LaunchCode\communication-log\CommunicationLog\CommunicationLog\obj\Debug\netcoreapp3.1\CommunicationLog.dll
 C:\Users\mfkam\LaunchCode\communication-log\CommunicationLog\CommunicationLog\obj\Debug\netcoreapp3.1\CommunicationLog.pdb
 C:\Users\mfkam\LaunchCode\communication-log\CommunicationLog\CommunicationLog\obj\Debug\netcoreapp3.1\CommunicationLog.genruntimeconfig.cache
+C:\Users\Akilah\Desktop\Launchode\studio\communication-log\CommunicationLog\obj\Debug\netcoreapp3.1\CommunicationLog.csproj.AssemblyReference.cache
+C:\Users\Akilah\Desktop\Launchode\studio\communication-log\CommunicationLog\obj\Debug\netcoreapp3.1\CommunicationLog.AssemblyInfoInputs.cache
+C:\Users\Akilah\Desktop\Launchode\studio\communication-log\CommunicationLog\obj\Debug\netcoreapp3.1\CommunicationLog.AssemblyInfo.cs
+C:\Users\Akilah\Desktop\Launchode\studio\communication-log\CommunicationLog\obj\Debug\netcoreapp3.1\CommunicationLog.csproj.CoreCompileInputs.cache
+C:\Users\Akilah\Desktop\Launchode\studio\communication-log\CommunicationLog\obj\Debug\netcoreapp3.1\CommunicationLog.dll
+C:\Users\Akilah\Desktop\Launchode\studio\communication-log\CommunicationLog\obj\Debug\netcoreapp3.1\CommunicationLog.pdb
